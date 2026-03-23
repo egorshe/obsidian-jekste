@@ -25,4 +25,5 @@ Wife: Irma Emma Aurora Jekste (Tschakse)
 	dates of life: 1902-12-15 — 
 
 Education: 
-- 1924: 
+- 1924: Komercskola, Liepaja, Ūliha iela 5
+- 1925: Liepaja state technical school (Liepājas Valst Tehnikums)
