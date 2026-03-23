@@ -20,3 +20,9 @@ key_connections:
 subject_status: main-subject
 tags: [person, latvian-diaspora, filmmkaer, newfoundland]
 ---
+
+Wife: Irma Emma Aurora Jekste (Tschakse)
+	dates of life: 1902-12-15 — 
+
+Education: 
+- 
