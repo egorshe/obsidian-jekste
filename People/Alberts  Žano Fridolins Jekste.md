@@ -25,7 +25,8 @@ Wife: Irma Emma Aurora Jekste (Tschakse, Čakse)
 	dates of life: 1902-12-15 (Tallinn) — 
 Daughters: 
 	Dzintra (1930-10-14 (Riga) — 1981-03 )
-		student at Gettysburg College, Penn
+		student at Gettysburg College, Penn. Major in Biology
+		about Dzintra in the school's newspaper [Weekly Gettysburgian, 13 November 1952](https://idnc.library.illinois.edu/?a=d&d=GTY19521113.1.1&e=-------en-20--1--txt-txIN----------)
 	Zane Frievalds (1937-06-30 (Liepaja) — 2005-04-30 (Washington, DC) )
 
 Education: 
