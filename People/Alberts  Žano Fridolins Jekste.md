@@ -21,8 +21,11 @@ subject_status: main-subject
 tags: [person, latvian-diaspora, filmmkaer, newfoundland]
 ---
 
-Wife: Irma Emma Aurora Jekste (Tschakse)
-	dates of life: 1902-12-15 — 
+Wife: Irma Emma Aurora Jekste (Tschakse, Čakse)
+	dates of life: 1902-12-15 (Tallinn) — 
+Daughters: 
+Dzintra (1930-10-14 (Riga) — 1981-03 )
+Zane Frievalds (1937-06-30 (Liepaja) — 2005-04-30 (Washington, DC) )
 
 Education: 
 - 1924: Komercskola, Liepaja, Ūliha iela 5
