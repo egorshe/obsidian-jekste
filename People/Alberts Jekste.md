@@ -12,5 +12,8 @@ nationality: [Latvian]
 roles: [engineer, film-producer, inventor, enterpreneur]
 organizations: ["[[VEF]]", "[[Rīgas Filma]]", "[[Atlantic Films]]"]
 family: 
-	half_sister: "[[]]"
+	half_sister: "[[Klints, Anta]]"
+	wife: "Irma Jekste"
+	daughters: ["[[Jekste, Dzintra]]", "[[Jekste, Zane]]"]
+	grandchildren: "Inga, Daine"
 ---
