@@ -28,7 +28,10 @@ Daughters:
 		student at Gettysburg College, Penn. Major in Biology
 		about Dzintra in the school's newspaper [Weekly Gettysburgian, 13 November 1952](https://idnc.library.illinois.edu/?a=d&d=GTY19521113.1.1&e=-------en-20--1--txt-txIN----------)
 		College Catalog of 1953 lists her as "Freshmen, Class of 1956": Bio., Baltimore, Md.
-		College Catalog of 1954 lists her as "Sophomores, Class of 1956"
+		College Catalog of 1954 lists her as "Sophomores, Class of 1956": Bio., Baltimore, Md.
+		1955: "Juniors, Class of 1956"
+		1956: "Seniors"
+		1957: "Bachelor of arts"
 	Zane Frievalds (1937-06-30 (Liepaja) — 2005-04-30 (Washington, DC) )
 
 Education: 
