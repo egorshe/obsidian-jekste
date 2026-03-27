@@ -12,6 +12,8 @@ nationality: [Latvian]
 roles: [engineer, film-producer, inventor, entrepreneur]
 organizations: ["[[VEF]]", "[[Rīgas Filma]]", "[[Atlantic Films]]"]
 family: 
+father: "Jānis Jekste"
+mother: "Ilze Jekste"
   half_sister: "[[Klints, Anta]]"
   wife: "Irma Jekste"
   daughters: ["[[Jekste, Dzintra]]", "[[Jekste, Zane]]"]
