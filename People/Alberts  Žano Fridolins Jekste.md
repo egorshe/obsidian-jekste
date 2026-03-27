@@ -25,6 +25,7 @@ tags: [person, latvian-diaspora, filmmkaer, newfoundland]
 
 Wife: Irma Emma Aurora Jekste (Tschakse, Čakse)
 	dates of life: 1902-12-15 (Tallinn) — 
+Sisters: half-sister: anna Klints. sister: Milda Jekste (1900? - 1928) бросилась в море и утонула
 Daughters: 
 	Dzintra (1930-10-14 (Riga) — 1981-03 )
 		student at Gettysburg College, Penn. Major in Biology
