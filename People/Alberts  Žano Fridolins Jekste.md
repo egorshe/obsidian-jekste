@@ -35,6 +35,7 @@ Daughters:
 		1956: "Seniors"
 		1957: "Bachelor of arts"
 	Zane Frievalds (1937-06-30 (Liepaja) — 2005-04-30 (Washington, DC) )
+Baptized: 7-13 july, 1908. in Liepaja Sw. Annas draudses baznizas sinas
 
 Education: 
 - 1924: Komercskola, Liepaja, Ūliha iela 5
@@ -42,3 +43,5 @@ Education:
 - 1938: Latvian University, Riga
 
 Languages spoken: Latvian, Russian, German
+
+из газеттных заметок
