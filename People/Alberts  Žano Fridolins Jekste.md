@@ -37,7 +37,7 @@ Daughters:
 		1955: "Juniors, Class of 1956"
 		1956: "Seniors"
 		1957: "Bachelor of arts"
-		Husband: Michael Ruudy (American department at Mariland university of tokio)
+		Husband: Michael Ruudy (American department at Mariland university of tokuo). Dzintra reads lecture in German to American soldiers in Tokyo, and the university branch in Korea 
 	Zane Frievalds (1937-06-30 (Liepaja) — 2005-04-30 (Washington, DC) )
 Baptized: 7-13 july, 1908. in Liepaja Sw. Annas draudses baznizas sinas
 
