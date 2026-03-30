@@ -41,7 +41,7 @@ tags:
   - filmmkaer
   - newfoundland
 ---
-Parents: Janis Jekste (Янне Ексте) and Līze (Lihze) Malik (Лиза Маликь). Married 10.03.1903 (OS) в возрасте 40 и 23 лет. Janis (30.03.1861 OS), Lize (19.06.1879 OS). Оба из Перкунен
+Parents: Janis Jekste (Янне Ексте) and Līze (Lihze) Malik (Лиза Маликь). Married 10.08.1903 (OS) в возрасте 40 и 23 лет. Janis (30.03.1861 OS), сын дворового хозяина Яниса и Анны (Ганна?) (оба умерли к 1903). Lize (19.06.1879 OS), дочь дворового хозяина ?? Малика и Мады(?). Оба из Перкунен, лютеране.  
 Wife: Irma Emma Aurora Jekste (Tschakse, Čakse)
 	dates of life: 1902-12-15 (Tallinn) — 1988-02-02 (Montreal)
 Sisters: 
