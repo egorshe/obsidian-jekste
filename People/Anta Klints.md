@@ -1,3 +1,16 @@
+---
+aliases
+- Anna Emilija Jekste
+- Anna Emilie Jekste
+- Anna Emīlija Jekste
+- Анта Клинт
+- Анта Клинтс
+born: 1893-10-01
+born (OS): 1893-09-19
+birthplace: Liepāja, Courland (Libau, Russian Empire)
+died: 1970-02-27
+death_place: Riga, LatSSR
+---
 [[Alberts  Žano Fridolins Jekste|Albert Jekste]]'s half-sister: Same father, her mother died от брюшного тифа 
 Perents: Jānis Jekste and Līze Jekste
 
