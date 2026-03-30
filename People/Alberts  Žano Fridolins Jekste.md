@@ -61,6 +61,9 @@ Daughters:
 		1957: "Bachelor of arts"
 		Husband: Michael Ruudy (American department at Mariland university of tokuo). Dzintra reads lecture in German to American soldiers in Tokyo, and the university branch in Korea 
 	Zane Frievalds (1937-06-30 (Liepaja) — 2005-04-30 (Washington, DC) )
+		zane учредила предмию имени отца на LKA в 1997 году. первую премию (в области Кино и кинотехники) в 1000 латов она вручила Калвису Залцманис, руководителю кафедры экранного и театрального искусства
+
+LKA. Премия предназначена для дальнейшего развития факультета или студенческих стипендий. по согласованию с мининстерством культуры Латвии, премия будет действовать при министерстве и станет ежегодной.
 Baptized: 7-13 july, 1908. in Liepaja Sw. Annas draudses baznizas sinas
 
 Education: 

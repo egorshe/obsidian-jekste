@@ -1,0 +1,1 @@
+Andris Ķesteris - Chairman of the Latvian Canadian Council привозил в 1990 в Ригу фильмы снятые в DP в германии для выставки «Латышский народ в борьбе против большевизма» «Latvju tauta cīņā pret boļševismu»
