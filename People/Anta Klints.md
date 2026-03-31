@@ -11,7 +11,7 @@ birthplace: Liepāja, Courland (Libau, Russian Empire)
 died: 1970-02-27
 death_place: Riga, LatSSR
 ---
-[[Alberts  Žano Fridolins Jekste|Albert Jekste]]'s half-sister: Same father, her mother died от брюшного тифа 
+[[Alberts  Žano Fridolins Jekste|Albert Jekste]]'s half-sister: Same father, her mother Lize (Lihze) Weite?  died от брюшного тифа 
 Perents: Jānis Jekste and Līze Jekste
 на сайте digitalbiblioteka фотография родителей неправильно атрибутирована. На самом деле это 1903 год, видно по разнице в возрасте -- янису к этому моменту 42 года. Это действительно Lize, но родная мать Мильды и Альберта, мачеха Анны Эмилии
 
